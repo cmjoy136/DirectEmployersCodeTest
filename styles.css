@@ -1,0 +1,8 @@
+#jobfeed{
+    display: flex;
+    flex-direction: column;
+}
+
+.jobs{
+    padding: 5px;
+}
